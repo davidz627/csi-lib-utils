@@ -2,12 +2,11 @@
 
 
 [[projects]]
-  digest = "1:7f21fa1f8ab9a529dba26a7e9cf20de217c307fa1d96cb599d3afd9e5c83e9d6"
+  digest = "1:ef5e03d403a6a4244a5905234843fccdb8e64d63bb559687f20bf326ac192848"
   name = "github.com/container-storage-interface/spec"
   packages = ["lib/go/csi"]
   pruneopts = "NUT"
-  revision = "f750e6765f5f6b4ac0e13e95214d58901290fb4b"
-  version = "v1.1.0"
+  revision = "9e773d2dd46a9b113d94fb3c245231d231bcfeda"
 
 [[projects]]
   digest = "1:ffe9824d294da03b391f44e1ae8281281b4afc1bdaa9588c9097785e3af10cec"

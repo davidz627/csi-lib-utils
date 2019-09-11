@@ -3,7 +3,7 @@
 
 [[constraint]]
   name = "github.com/container-storage-interface/spec"
-  version = "=1.1.0"
+  revision = "9e773d2dd46a9b113d94fb3c245231d231bcfeda"
 
 [[constraint]]
   name = "k8s.io/api"
